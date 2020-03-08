@@ -1,0 +1,5 @@
+2020/03/08 05:54:46 [error] 6#6: *1 access forbidden by rule, client: 172.19.0.1, server: , request: "GET / HTTP/1.0", host: "127.0.0.1:8090"
+2020/03/08 05:54:54 [error] 6#6: *2 access forbidden by rule, client: 192.168.0.229, server: , request: "GET / HTTP/1.1", host: "192.168.0.103:8090"
+2020/03/08 05:56:25 [error] 6#6: *1 access forbidden by rule, client: 172.20.0.1, server: , request: "GET / HTTP/1.0", host: "127.0.0.1:8090"
+2020/03/08 05:56:31 [error] 6#6: *2 access forbidden by rule, client: 192.168.0.229, server: , request: "GET / HTTP/1.1", host: "192.168.0.103:8090"
+2020/03/08 06:05:03 [emerg] 1#1: invalid parameter "onepassword.local" in /etc/nginx/conf.d/default.conf:8
